@@ -11,7 +11,7 @@ A cold, long-winded, native of the deep:<br>
 If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies :
 
-##REMARKS.
+##REMARKS.</center>
 
 <table border="0">
  <tr>
