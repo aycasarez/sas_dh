@@ -15,8 +15,8 @@ Not everlaſting Blackmore this denies :
 
 <table border="0">
  <tr>
-    <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br>
-tlement of genis and ſpirit, who was ſe-<br>
+    <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br/>
+tlemen of genis and ſpirit, who was ſe-<br/>
 cretly dipt in ſome papers of this kind,<br>
 on whom our Poet beſtows a panegyric<br>
 inſtead of a ſatyr, as deſerving to be bet-<br>
