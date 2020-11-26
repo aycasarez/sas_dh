@@ -12,9 +12,8 @@ A cold, long-winded, native of the deep:<br>
 If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies : 
 
-<div align="center">
- <h2> REMARKS. </h2>
-</div>
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMARKS.
 <table border="0">
  <tr>
     <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br/>
