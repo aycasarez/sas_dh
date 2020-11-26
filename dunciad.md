@@ -12,7 +12,7 @@ If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies :
 
 ## REMARKS.
-
+</center>
 <table border="0">
  <tr>
     <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br/>
@@ -23,15 +23,15 @@ inſtead of a ſatyr, as deſerving to be bet-<br>
 ter employed than in Party-quarrels and<br>
 perſonal invectives.<br>
      &nbsp;&nbsp;VER 299. *Concanem*] MATTHEW
-CONCANEN, an Iriſhman, bred to the
-law. Smedley (one of his brethren in
-enmity to Swift) in his Metamorphoſis of
-Scriblerus, p. 7 accuſes him of " hav-
-" ing boaſted of what he had not written,
-" but others had reviſed and done for
-" him."  He was author of ſeveral dull
-and dead ſcurrilities in the Britiſh and
-London Journals, and in a paper called
+CONCANEN, an Iriſhman, bred to the-<br/>
+law. Smedley (one of his brethren in-<br/>
+enmity to Swift) in his Metamorphoſis of-<br/>
+Scriblerus, p. 7 accuſes him of " hav--<br/>
+" ing boaſted of what he had not written,-<br/>
+" but others had reviſed and done for-<br/>
+" him."  He was author of ſeveral dull-<br/>
+and dead ſcurrilities in the Britiſh and-<br/>
+London Journals, and in a paper called-<br/>
 </td>
 <td> the Speculatiſt. In a pamphlet, called a<br>
 Supplement to the Profund, he dealt very <br>
