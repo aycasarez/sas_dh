@@ -4,12 +4,12 @@
 
 All look, all ſigh, and call on Smedley loft;<br>
 Smedley in vain reſounds thro' all the coaſt.<br>
-Then * eſſay'd ; ſcarce vaniſh'd out of ſight,<br>
+295&nbsp;&nbsp;&nbsp; Then * eſſay'd ; ſcarce vaniſh'd out of ſight,<br>
 He buoys up inſtant, and returns to light:<br>
 He bears no token of the ſabler ſtreams,<br>
 And mounts far off among the Swans of Thames.<br>
-True to the bottom, ſee Concanen creep,<br>
-A cold, long-winded, native of the deep:<br>
+&nbsp;&nbsp;&nbsp;True to the bottom, ſee Concanen creep,<br>
+300 A cold, long-winded, native of the deep:<br>
 If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies : 
 
