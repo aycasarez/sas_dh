@@ -13,7 +13,7 @@ If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies : 
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMARKS.
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMARKS.
 <table border="0">
  <tr>
     <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br/>
@@ -52,7 +52,7 @@ which this man was ſurpriſingly promoted<br>
 to adminiſter Juſtice and Law in Ja-<br>
 maica. </td> </tr> </table>
 
-## IMITATIONS.
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IMITATIONS.
 
 VER. 293 *and call on Smedley loſt; &c.*]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Alicides wept in vain for Hylas loſt,<br/>
