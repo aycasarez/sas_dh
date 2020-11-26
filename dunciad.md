@@ -22,8 +22,7 @@ on whom our Poet beſtows a panegyric<br>
 inſtead of a ſatyr, as deſerving to be bet-<br>
 ter employed than in Party-quarrels and<br>
 perſonal invectives.<br>
-
-<td>&nbsp;&nbsp;VER 299. *Concanem*] MATTHEW
+     &nbsp;&nbsp;VER 299. *Concanem*] MATTHEW
 CONCANEN, an Iriſhman, bred to the
 law. Smedley (one of his brethren in
 enmity to Swift) in his Metamorphoſis of
