@@ -1,6 +1,6 @@
 # 108&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DUNCIAD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Book II.
 
-
+<div align = 'center'>
 All look, all ſigh, and call on Smedley loft;<br>
 Smedley in vain reſounds thro' all the coaſt.<br>
 Then * eſſay'd ; ſcarce vaniſh'd out of ſight,<br>
@@ -13,7 +13,7 @@ If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies : 
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMARKS.
+## REMARKS.
 <table border="0">
  <tr>
     <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br/>
