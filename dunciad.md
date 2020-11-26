@@ -1,6 +1,7 @@
+<div align = 'center'>
 # 108&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DUNCIAD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Book II.
 
-<div align = 'center'>
+
 All look, all ſigh, and call on Smedley loft;<br>
 Smedley in vain reſounds thro' all the coaſt.<br>
 Then * eſſay'd ; ſcarce vaniſh'd out of ſight,<br>
