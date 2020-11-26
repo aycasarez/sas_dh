@@ -1,5 +1,5 @@
 <div align = 'center'>
-# 108&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DUNCIAD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Book II.
+<h1> 108&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DUNCIAD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Book II. </h1>
 
 
 All look, all ſigh, and call on Smedley loft;<br>
