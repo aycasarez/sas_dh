@@ -1,6 +1,6 @@
 # 108&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The DUNCIAD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Book II.
 
-<center>
+<div align="center">
 All look, all ſigh, and call on Smedley loft;<br>
 Smedley in vain reſounds thro' all the coaſt.<br>
 Then * eſſay'd ; ſcarce vaniſh'd out of ſight,<br>
@@ -11,7 +11,8 @@ True to the bottom, ſee Concanen creep,<br>
 A cold, long-winded, native of the deep:<br>
 If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies : 
-</center>
+
+
 ## REMARKS.
 
 <table border="0">
