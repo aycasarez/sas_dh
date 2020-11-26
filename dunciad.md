@@ -12,9 +12,9 @@ A cold, long-winded, native of the deep:<br>
 If perſerverance gain the Diver's prize,<br>
 Not everlaſting Blackmore this denies : 
 
-
-## REMARKS.
-
+<div align="center">
+ <h2> REMARKS. </h2>
+</div>
 <table border="0">
  <tr>
     <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br/>
@@ -57,7 +57,7 @@ maica. </td> </tr> </table>
 
 VER. 293 *and call on Smedley loſt; &c.*]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Alicides wept in vain for Hylas loſt,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hylas, in vain,<br/> reſounds thro' all the coaſt.*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hylas, in vain, reſounds thro' all the coaſt.*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lord Rofcom. Tranſlat. of Virgil's 6th Ecl.<br/><br/>
 
 VER. 302. *Not everlaſting Blackmore*]<br/>
