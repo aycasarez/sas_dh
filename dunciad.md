@@ -9,10 +9,10 @@ And mounts far off among the Swans of Thames.<br>
 True to the bottom, ſee Concanen creep,<br>
 A cold, long-winded, native of the deep:<br>
 If perſerverance gain the Diver's prize,<br>
-Not everlaſting Blackmore this denies :
+Not everlaſting Blackmore this denies : </center>
 
 ## REMARKS.
-</center>
+
 <table border="0">
  <tr>
     <td>&nbsp;&nbsp;VER. 295. *Them * eſſay'd* ;] A Gen-<br/>
