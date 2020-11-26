@@ -53,7 +53,8 @@ which this man was ſurpriſingly promoted<br>
 to adminiſter Juſtice and Law in Ja-<br>
 maica. </td> </tr> </table>
 
-##IMITATIONS.
+## IMITATIONS.
+
 VER. 293 *and call on Smedley loſt; &c.*]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Alicides wept in vain for Hylas loſt,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hylas, in vain, reſounds thro' all the coaſt.*
